@@ -1,0 +1,2 @@
+# Actividad-Sistemas-Operativos
+OpensuseTumbleweed
